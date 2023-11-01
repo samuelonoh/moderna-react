@@ -113,7 +113,7 @@ Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa
 <footer className="footer footer-center p-10 bg-[#0B212D]  text-white ">
 <div>
 <p>Copyright © Moderna - All Rights Reserved </p>
-<p>Designed by <span className='text-[#A2CCE3]'>Team B</span></p>
+<p>Designed by <span className='text-[#A2CCE3]'>Sammy</span></p>
 </div>
 </footer>
 </>

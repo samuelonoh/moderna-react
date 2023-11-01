@@ -40,8 +40,8 @@ function Contact() {
 <i class="bi bi-envelope text-[#68A8C8] text-2xl  font-extrabold "></i>
 </div>
 <h3 className='font-bold text-lg'>Email Us</h3>
-<p>info@splendidtech.com</p>
-<p>contact@groupb.com</p>
+<p>samuelonoh12345@gmail.com</p>
+<p>sammy@gmail.com</p>
 </div>
 </div>
 {/* </Fade> */}
@@ -54,8 +54,8 @@ function Contact() {
 <i class="bi bi-telephone-inbound text-[#68A8C8] text-2xl  font-extrabold "></i>
 </div>
 <h3 className='font-bold text-lg'>Call Us</h3>
-<p>+1 5589 55488 55</p>
-<p>+1 6678 254445 41</p>
+<p>+234 9061644848</p>
+<p>+234 9061644848</p>
 </div>
 </div>
 {/* </Fade> */}
